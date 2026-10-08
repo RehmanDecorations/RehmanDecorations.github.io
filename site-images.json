@@ -29,7 +29,7 @@
     "mehndi": {
       "folder": "Mehndi",
       "prefix": "Mehndi",
-      "count": 11,
+      "count": 12,
       "titleKey": "mehndiTitle",
       "photoKey": "mehndiPhoto",
       "images": [
@@ -43,7 +43,8 @@
         "images/Mehndi/Mehndi-8.jpeg",
         "images/Mehndi/Mehndi-9.jpeg",
         "images/Mehndi/Mehndi-10.jpeg",
-        "images/Mehndi/Mehndi-11.jpeg"
+        "images/Mehndi/Mehndi-11.jpeg",
+        "images/Mehndi/Mehndi-12.jpeg"
       ]
     },
     "room": {
