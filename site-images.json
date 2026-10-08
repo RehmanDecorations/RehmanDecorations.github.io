@@ -2,18 +2,15 @@
   "brand": {
     "logo": "images/logo.jpeg"
   },
-
   "home": {
     "hero": "images/Shahid.jpeg",
     "stage": "images/Wedding/Wedding-1.jpeg",
     "room": "images/Room/Room-1.jpeg",
     "car": "images/Car/Car-1.jpeg"
   },
-
   "about": {
     "main": "images/Wedding/Wedding-1.jpeg"
   },
-
   "gallery": {
     "wedding": {
       "folder": "Wedding",
@@ -22,7 +19,6 @@
       "titleKey": "weddingStageTitle",
       "photoKey": "weddingPhoto"
     },
-
     "engagement": {
       "folder": "Engagement",
       "prefix": "Engagement",
@@ -30,15 +26,27 @@
       "titleKey": "engagement",
       "photoKey": "engagementPhoto"
     },
-
     "mehndi": {
       "folder": "Mehndi",
       "prefix": "Mehndi",
-      "count": 11,
+      "count": 12,
       "titleKey": "mehndiTitle",
-      "photoKey": "mehndiPhoto"
+      "photoKey": "mehndiPhoto",
+      "images": [
+        "images/Mehndi/Mehndi-1.jpeg",
+        "images/Mehndi/Mehndi-2.jpeg",
+        "images/Mehndi/Mehndi-3.jpeg",
+        "images/Mehndi/Mehndi-4.jpeg",
+        "images/Mehndi/Mehndi-5.jpeg",
+        "images/Mehndi/Mehndi-6.jpeg",
+        "images/Mehndi/Mehndi-7.jpeg",
+        "images/Mehndi/Mehndi-8.jpeg",
+        "images/Mehndi/Mehndi-9.jpeg",
+        "images/Mehndi/Mehndi-10.jpeg",
+        "images/Mehndi/Mehndi-11.jpeg",
+        "images/Mehndi/Mehndi-12.jpeg"
+      ]
     },
-
     "room": {
       "folder": "Room",
       "prefix": "Room",
@@ -46,7 +54,6 @@
       "titleKey": "roomServiceTitle",
       "photoKey": "roomPhoto"
     },
-
     "birthday": {
       "folder": "Birthday",
       "prefix": "Birthday",
@@ -54,7 +61,6 @@
       "titleKey": "birthdayTitle",
       "photoKey": "birthdayPhoto"
     },
-
     "car": {
       "folder": "Car",
       "prefix": "Car",
