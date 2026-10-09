@@ -64,9 +64,14 @@
     "car": {
       "folder": "Car",
       "prefix": "Car",
-      "count": 2,
+      "count": 3,
       "titleKey": "carServiceTitle",
-      "photoKey": "carPhoto"
+      "photoKey": "carPhoto",
+      "images": [
+        "images/Car/Car-1.jpeg",
+        "images/Car/Car-2.jpeg",
+        "images/Car/Car-3.jpeg"
+      ]
     }
   }
 }
